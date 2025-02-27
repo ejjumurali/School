@@ -1,0 +1,44 @@
+[
+  {
+    "id": 100,
+    "name": "Murai",
+    "studentClass": "Class-1",
+    "section": "A"
+  },
+  {
+    "id": 101,
+    "name": "Prade",
+    "studentClass": "Class-1",
+    "section": "A"
+  },
+  {
+    "id": 102,
+    "name": "Swn",
+    "studentClass": "Class-1",
+    "section": "A"
+  },
+  {
+    "id": 103,
+    "name": "Leo",
+    "studentClass": "Class-1",
+    "section": "A"
+  },
+  {
+    "id": 104,
+    "name": "Dubk",
+    "studentClass": "Class-1",
+    "section": "A"
+  },
+  {
+    "id": 105,
+    "name": "rak",
+    "studentClass": "Class-1",
+    "section": "A"
+  },
+  {
+    "id": 106,
+    "name": "ram",
+    "studentClass": "Class-1",
+    "section": "A"
+  }
+]

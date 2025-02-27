@@ -1,4 +1,4 @@
-package com.school.controller.admissions;
+package com.school.controller;
 
 import static org.junit.jupiter.api.Assertions.*;
 
